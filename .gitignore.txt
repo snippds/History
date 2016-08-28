@@ -1,3 +1,0 @@
-Bens.md
-sdc/
-*.md
